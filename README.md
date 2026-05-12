@@ -4,6 +4,10 @@ This repository is intended for code review and demonstration of Java/Spring Boo
 ## MazeGame
 Showcases implementation of a RESTful backend for a maze exploration game. The focus of this project was building a communication layer between a game engine and a frontend client. I was responsible for designing the data contracts and the API orchestration layer to handle real-time game state transitions.
 
+### Built with:
+- Java
+- Spring Boot
+
 ### Tasks
 - Built Java classes to represent game entities and logic.
 - Designed and implemented Data Transfer Objects (DTOs) for decoupled data exchange.
